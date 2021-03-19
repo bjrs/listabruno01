@@ -1,0 +1,274 @@
+#EXTM3U
+#https://www.googleapis.com/drive/v3/files/COLOCA O ID DO ARQUIVO AQUI?alt=media&key=AIzaSyCgn8WAsL7T2KaxsP2feDBlvfijiiIX8BQ
+#AIzaSyCgn8WAsL7T2KaxsP2feDBlvfijiiIX8BQ
+
+
+######################################################################################################################################
+############################################################ FILMES ##################################################################
+######################################################################################################################################
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/wsjaEPserDMXR6aNUByepN2jtb2.jpg" group-title="FILMES", YOUNG GUNS 01 (1988)
+https://www.googleapis.com/drive/v3/files/1jbm7ooYW2mF7WbQwi-lk1w9SrG644fMR?alt=media&key=AIzaSyCgn8WAsL7T2KaxsP2feDBlvfijiiIX8BQ
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/gpCm8xFGUQ8APMqe8olCecvn9DO.jpg" group-title="FILMES", YOUNG GUNS 02 (1990)
+https://www.googleapis.com/drive/v3/files/1oDEZpuUx0r6MdHZnlU8enyCrHN59cglD?alt=media&key=AIzaSyCgn8WAsL7T2KaxsP2feDBlvfijiiIX8BQ
+#EXTINF:0 tvg-logo="https://i.imgur.com/b6CtXB6.jpg" group-title="FILMES", INTERESTELAR 2014
+https://d2vckf0gxx2595.cloudfront.net/RCFServer2/ondemand/INTRSTLAR.mp4
+######################################################################################################################################
+########################################################### SERIADOS #################################################################
+######################################################################################################################################
+
+
+
+
+################## XXXX SEPARADOR XXXX ########################
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="XXX TITULO DO GRUPO- CATEGORIA XXX" pltv-subgroup="XXX SUBGRUPOXXX", XXX NOME DO CANAL, EXEMPLO DBZ EPISODIO 1 XXX
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+################## XXXX SEPARADOR XXXX ########################
+
+#EXTINF:-1 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title=SERIADOS" pltv-subgroup=""GAME OF THRONES", GOT-T01-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title=SERIADOS" pltv-subgroup=""GAME OF THRONES", GOT-T01-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP02.mp4
+
+
+
+
+################################# GAME OF THRONES ####################################### 01 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP08.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP09
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP09.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP10
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT01EP10.mp4
+
+################################# GAME OF THRONES ####################################### 02 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP08.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP09
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP09.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones2.jpg" group-title="GAME OF THRONES", GOT-T02-EP10
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/GMOFTRT02EP10.mp4
+
+
+
+################################### TITÃS ####################################### 01 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP01.mp4
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP01.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP02.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP03.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP04.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP05.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP06.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP07.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP08.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP09
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP09.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP10
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP10.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP11
+https://d2vckf0gxx2595.cloudfront.net/RCServer06/ondemand/TITNST01EP11.mp4
+#EXTINF:0 tvg-logo="https://maxseries.me/wp-content/uploads/2019/08/titans-185x250.jpg" group-title="TITÃS", TIT-T01-EP12
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP12.mp4
+
+################################### TITÃS ####################################### 02 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP08.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP09
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP09.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP10
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP10.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP11
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP11.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP12
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP12.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Tit%C3%A3s%202.jpg" group-title="TITÃS", TIT-T02-EP13
+https://d2vckf0gxx2595.cloudfront.net/RCServer08/ondemand/TITNST02EP13.mp4
+
+
+
+################################# THE BOYS ###################################### 01 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The%20Boys%20Capa.jpg" group-title="THE BOYS", BOY-T01-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST01EP08.mp4
+
+################################# THE BOYS ###################################### 02 TEMPORADA ######################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer12/ondemand/THEBOST02EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST02EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/The Boys 2.jpg" group-title="THE BOYS", BOY-T02-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/THEBOST02EP08.mp4
+
+
+
+################################# BatWoman #################################
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP01
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP01.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP02
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP02.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP03
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP03.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP04
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP04.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP05
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP05.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP06
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP06.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP07
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP07.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP08
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP08.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP09
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP09.mp4
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP10
+https://d2vckf0gxx2595.cloudfront.net/RCServer14/ondemand/BATWMNT01EP10.mp4
+
+
+
+#EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Series/Batwoman%20Capa.jpg" group-title="BATWOMAN", BAT-T01-EP16
+https://d2vckf0gxx2595.cloudfront.net/RCServer04/ondemand/BATWMNT01EP16.mp4
+
+
+
+########################################################### CANAIS DE TV
+#EXTINF:0 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg" group-title="CANAIS ABERTOS" , BIG BROTHER BRASIL 21
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bbb21.m3u8?mu3zAQc9HC3GbwJq=YDDjTvrQoBkUx9-0Q9LMQA&3U1G7qaTxrPbalZnEx=1615836943
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcamara.png" group-title="CANAIS ABERTOS" , TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS ABERTOS", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/DDKzaw33VPIWUw-fY5QK027meJJJWn3Y9rhRleOqRHlwWRfyByYT6ZLDHLGcWJpDsB0" group-title="CANAIS ABERTOS", 1001 NOITES
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1882317162_b1601536.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="CANAIS ABERTOS",REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="CANAIS ABERTOS", TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="CANAIS ABERTOS", TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_Z2ukNYyoZoDtPVziwI-ElNTyoERRNp_eYSnt2qEpQ4KAQKy" group-title="CANAIS ABERTOS" ,TRANSAMERICA TV [PR]
+rtmp://tvtransamerica.crossdigital.com.br/ponto2/transamerica2
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="CANAIS ABERTOS" ,CENTRAL TV [PR]
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1425693227.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS",12 SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+
+########################################################### CANAIS FECHADOS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/245px-CNN_Brasil.svg.png" group-title="CANAIS FECHADOS", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+
+#EXTINF:0 tvg-logo="http://cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="CANAIS FECHADOS", TV CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS FECHADOS", RECORD NEWS (ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2084539512.m3u8
+
+#EXTINF:0 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO" group-title="CANAIS FECHADOS", BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANRpSvd.png?1" group-title="CANAIS FECHADOS", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS FECHADOS", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rvbIfDo.png" group-title="CANAIS FECHADOS", YEEAH! TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1935724233.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/200px-Top_TV_logo.svg.png" group-title="CANAIS FECHADOS", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1076175471.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="CANAIS FECHADOS", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png?fit=500%2C300" group-title="CANAIS FECHADOS", ALL SPORTS 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1900225297.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="CANAIS FECHADOS", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
