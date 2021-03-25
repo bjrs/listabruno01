@@ -1,0 +1,121 @@
+#EXTM3U
+
+
+######################################################################################################################################
+######################################################## CANAIS DE TV ################################################################
+######################################################################################################################################
+
+###################################################### CANAIS FECHADOS ###############################################################
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-282669.png" group-title="CANAIS FECHADOS", HBO HD
+http://b5.vc:80/live/7885037935/fireurl.co/72120.m3u8
+#EXTINF:0 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/hbo-282669.png" group-title="CANAIS FECHADOS", HBO
+http://dnsx.co:80/live/7885037935/fireurl.co/72120.m3u8
+
+
+#EXTINF:0 tvg-logo="https://styles.redditmedia.com/t5_3sf7gv/styles/communityIcon_sk8xs0jz6qd61.jpg" group-title="CANAIS FECHADOS", BBB 21 HD
+http://b5.vc:80/live/7885037935/fireurl.co/89719.m3u8
+#EXTINF:0 tvg-logo="https://styles.redditmedia.com/t5_3sf7gv/styles/communityIcon_sk8xs0jz6qd61.jpg" group-title="CANAIS FECHADOS", BBB 21 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89719.m3u8
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1341908747090874368/O9sDW9Oo_reasonably_small.jpg" group-title="CANAIS FECHADOS", MULTISHOW HD
+http://b5.vc:80/live/7885037935/fireurl.co/72182.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1341908747090874368/O9sDW9Oo_reasonably_small.jpg" group-title="CANAIS FECHADOS", MULTISHOW SD
+http://dnsx.co:80/live/7885037935/fireurl.co/72182.m3u8
+
+
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="CANAIS FECHADOS", DISCOVERY ID HD
+http://b5.vc:80/live/7885037935/fireurl.co/72152.m3u8
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="CANAIS FECHADOS", DISCOVERY ID SD
+http://dnsx.co:80/live/7885037935/fireurl.co/72153.m3u8
+
+
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg" group-title="CANAIS FECHADOS", ANIMAL PLANET HD
+http://b5.vc:80/live/7885037935/fireurl.co/71775.m3u8
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg" group-title="CANAIS FECHADOS", ANIMAL PLANET SD
+http://dnsx.co:80/live/7885037935/fireurl.co/71775.m3u8
+
+
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg" group-title="CANAIS FECHADOS", DISCOVERY CHANNEL HD
+http://b5.vc:80/live/7885037935/fireurl.co/71865.m3u8
+#EXTINF:0 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg" group-title="CANAIS FECHADOS", DISCOVERY CHANNEL SD
+http://dnsx.co:80/live/7885037935/fireurl.co/71865.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/245px-CNN_Brasil.svg.png" group-title="CANAIS FECHADOS", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+
+
+#EXTINF:0 tvg-logo="http://cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="CANAIS FECHADOS", TV CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS FECHADOS", RECORD NEWS (ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2084539512.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO" group-title="CANAIS FECHADOS", BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANRpSvd.png?1" group-title="CANAIS FECHADOS", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS FECHADOS", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rvbIfDo.png" group-title="CANAIS FECHADOS", YEEAH! TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1935724233.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/200px-Top_TV_logo.svg.png" group-title="CANAIS FECHADOS", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1076175471.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="CANAIS FECHADOS", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png?fit=500%2C300" group-title="CANAIS FECHADOS", ALL SPORTS 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1900225297.m3u8
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="CANAIS FECHADOS", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+
+###################################################### CANAIS ABERTOS ###############################################################
+
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcamara.png" group-title="CANAIS ABERTOS" , TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS ABERTOS", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/DDKzaw33VPIWUw-fY5QK027meJJJWn3Y9rhRleOqRHlwWRfyByYT6ZLDHLGcWJpDsB0" group-title="CANAIS ABERTOS", 1001 NOITES
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1882317162_b1601536.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="CANAIS ABERTOS",REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="CANAIS ABERTOS", TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="CANAIS ABERTOS", TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_Z2ukNYyoZoDtPVziwI-ElNTyoERRNp_eYSnt2qEpQ4KAQKy" group-title="CANAIS ABERTOS" ,TRANSAMERICA TV [PR]
+rtmp://tvtransamerica.crossdigital.com.br/ponto2/transamerica2
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="CANAIS ABERTOS" ,CENTRAL TV [PR]
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1425693227.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS ABERTOS", TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://grupoaudienciadatv.files.wordpress.com/2009/10/sbt_preto13.jpg" group-title="CANAIS ABERTOS",12 SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+
+
