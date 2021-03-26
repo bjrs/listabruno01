@@ -15,22 +15,6 @@ https://assis.azureedge.net/RCFServer2/ondemand/INTRSTLAR.mp4
 ######################################################################################################################################
 
 
-
-
-################## XXXX SEPARADOR XXXX ########################
-
-#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="XXX TITULO DO GRUPO- CATEGORIA XXX" pltv-subgroup="XXX SUBGRUPOXXX", XXX NOME DO CANAL, EXEMPLO DBZ EPISODIO 1 XXX
-XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
-################## XXXX SEPARADOR XXXX ########################
-
-#EXTINF:-1 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title=SERIADOS" pltv-subgroup=""GAME OF THRONES", GOT-T01-EP01
-https://assis.azureedge.net/RCServer01/videos/GMOFTRT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title=SERIADOS" pltv-subgroup=""GAME OF THRONES", GOT-T01-EP02
-https://assis.azureedge.net/RCServer01/videos/GMOFTRT01EP02.mp4
-
-
-
-
 ################################# GAME OF THRONES ####################################### 01 TEMPORADA ######################################
 #EXTINF:0 tvg-logo="https://redecanais.cloud/imgs-videos/Legado/Game%20of%20Thrones1.jpg" group-title="GAME OF THRONES", GOT-T01-EP01
 https://assis.azureedge.net/RCServer01/videos/GMOFTRT01EP01.mp4
